@@ -15,7 +15,7 @@ docs/source/_modules
 docs/source/api
 
 # Ignore public folder for artifact (required path for Gitlab Pages)
-public/
+#public/
 
 # Ignore specific hidden folders
 .benchmarks/
