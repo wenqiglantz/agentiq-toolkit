@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "question": "What are the steps involved in a brake pad replacement?",
+        "answer": "The steps for brake pad replacement are: 1) Raise the vehicle and remove the wheel, 2) Remove the old brake pads and inspect the brake caliper, 3) Apply caliper grease to the new brake pads, 4) Install the new brake pads and reassemble the brake caliper, 5) Refill brake fluid if necessary and test the brakes. This is a medium difficulty service that takes approximately 45 minutes."
+    },
+    {
+        "id": "2",
+        "question": "What is the average cost for an oil change?",
+        "answer": "The average cost for an oil change is $50. The cost can range from $20 to $100 depending on the type of oil used, the vehicle model, and the service provider."
+    },
+    {
+        "id": "3",
+        "question": "What are the possible causes of squealing brakes?",
+        "answer": "Squealing brakes can be caused by worn brake pads, glazed brake rotors, or lack of lubrication on brake hardware. This is considered a medium severity issue and the recommended action is to inspect the brake system and replace worn parts, particularly focusing on brake pad replacement."
+    },
+    {
+        "id": "4",
+        "question": "What maintenance tasks should be performed at 60,000 miles?",
+        "answer": "At 60,000 miles, the following maintenance tasks should be performed: transmission fluid change, spark plug replacement, timing belt inspection/replacement, and brake fluid change. This is considered a major service that takes approximately 4-6 hours to complete."
+    },
+    {
+        "id": "5",
+        "question": "What are common issues for a 2018 Toyota Corolla with 55,000 miles?",
+        "answer": "Common issues for a 2018 Toyota Corolla with 55,000 miles include brake wear and oil leaks. The estimated time to address these issues is approximately 1-2 hours."
+    },
+    {
+        "id": "6",
+        "question": "What parts are needed for a coolant flush?",
+        "answer": "For a coolant flush, you will need coolant (such as CoolMax, 1 Gallon) and a coolant flush kit. A drain pan is also recommended for collecting the old coolant. The coolant flush is a medium difficulty service that takes approximately 45 minutes."
+    },
+    {
+        "id": "7",
+        "question": "What should I do if my engine is overheating?",
+        "answer": "If your engine is overheating, you should stop driving immediately and have the cooling system inspected. This is a high severity issue that could be caused by low coolant level, a faulty thermostat, a broken water pump, or a clogged radiator. The recommended action is to perform a coolant flush or address the specific faulty component."
+    },
+    {
+        "id": "8",
+        "question": "How much does a timing belt replacement cost?",
+        "answer": "The average cost for a timing belt replacement is $600. The cost can range from $400 to $800 depending on the vehicle make and model, the quality of parts used, and labor rates at different service providers."
+    },
+    {
+        "id": "9",
+        "question": "What are the signs that I need to replace my car battery?",
+        "answer": "Signs that you need to replace your car battery include hard starting of the engine, dimming headlights, electrical components working poorly, and the battery warning light on the dashboard. Battery replacement is often needed when these symptoms appear and is considered a high severity issue that should be addressed promptly."
+    },
+    {
+        "id": "10",
+        "question": "What maintenance tasks are recommended for a 2017 Honda Civic at 60,000 miles?",
+        "answer": "For a 2017 Honda Civic at 60,000 miles, recommended maintenance tasks include transmission fluid change, spark plug replacement, timing belt inspection/replacement, and brake fluid change. Common issues at this mileage include transmission issues and suspension problems, which would typically take 2-3 hours to address."
+    }
+]

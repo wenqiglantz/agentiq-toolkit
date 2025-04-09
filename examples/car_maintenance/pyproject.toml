@@ -1,0 +1,25 @@
+[build-system]
+build-backend = "setuptools.build_meta"
+requires = ["setuptools >= 64", "setuptools-scm>=8"]
+
+[tool.setuptools_scm]
+root = "../.."
+
+[project]
+name = "car_maintenance"
+dynamic = ["version"]
+dependencies = [
+  "agentiq[llama-index,langchain]",
+  "faiss-cpu==1.8.0.post1",
+  "llama-index-vector-stores-faiss==0.3.0",
+  "colorama~=0.4.6"
+]
+requires-python = ">=3.12"
+description = "Custom AgentIQ Workflow"
+classifiers = ["Programming Language :: Python"]
+
+[tool.uv.sources]
+agentiq = { path = "../..", editable = true }
+
+[project.entry-points.'aiq.components']
+car_maintenance = "car_maintenance.register"

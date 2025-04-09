@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "question": "Tell me about this workflow.",
+        "answer": "This workflow is a multi-frameworks example that can be installed locally and run using specific commands. To install the workflow, you need to run `uv pip install -e examples/multi_frameworks`. After installation, you can run the workflow using the command `aiq run --config_file=examples/multi_frameworks/configs/config.yml --input \"your query here\"`. You can replace \"your query here\" with any input you want to query the workflow with."
+    },
+    {
+        "id": "2",
+        "question": "How many agentic frameworks are used in this workflow?",
+        "answer": "This workflow uses 3 agentic frameworks: \n\n1. rag_agent made out of llama_index via a custom llama-index-rag tool\n2. research_agent made out of a LangChain runnable chain with tool calling capability\n3. chitchat agent that is able to handle general chitchat query from user, constructed via haystack's pipeline"
+    },
+    {
+        "id": "3",
+        "question": "what is Compound AI?",
+        "answer": "A Compound AI System is an advanced artificial intelligence framework that integrates multiple AI components, LLMs, tools, APIs, software techniques, and Compound AI systems are systems that tackle AI tasks by combining multiple interacting components. In contrast, an AI model is simply a statistical model, e.g., a Transformer that predicts the next token in text. Compound AI systems are an increasingly common design pattern for AI applications due to their performance and flexibility.\nFor more information, see The Shift from Models to Compound AI Systems .\nWhat are AI agents? [...] The industry is still defining AI agents, however it generally understood as an AI system where the model makes some or all of the planning decisions in contrast to hard-coded logic. These agents use large language models (LLMs) to make decisions and accomplish their objectives.\nMany AI agents applications are made of multiple systems, thus qualifying them as compound AI systems. Compound AI systems, as defined by the Berkeley AI Research (BAIR) blog, are systems that tackle AI tasks by combining multiple interacting components."
+    }
+]

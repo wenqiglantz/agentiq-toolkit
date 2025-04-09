@@ -1,0 +1,102 @@
+[
+    {
+        "id": "1",
+        "question": "What are the steps involved in a brake pad replacement?",
+        "answer": "The steps for brake pad replacement are: 1) Raise the vehicle and remove the wheel, 2) Remove the old brake pads and inspect the brake caliper, 3) Apply caliper grease to the new brake pads, 4) Install the new brake pads and reassemble the brake caliper, 5) Refill brake fluid if necessary and test the brakes. This is a medium difficulty service that takes approximately 45 minutes."
+    },
+    {
+        "id": "2",
+        "question": "What is the average cost for an oil change?",
+        "answer": "The average cost for an oil change is $50. The cost can range from $20 to $100 depending on the type of oil used, the vehicle model, and the service provider."
+    },
+    {
+        "id": "3",
+        "question": "What are the possible causes of squealing brakes?",
+        "answer": "Squealing brakes can be caused by worn brake pads, glazed brake rotors, or lack of lubrication on brake hardware. This is considered a medium severity issue and the recommended action is to inspect the brake system and replace worn parts, particularly focusing on brake pad replacement."
+    },
+    {
+        "id": "4",
+        "question": "What maintenance tasks should be performed at 60,000 miles?",
+        "answer": "At 60,000 miles, the following maintenance tasks should be performed: transmission fluid change, spark plug replacement, timing belt inspection/replacement, and brake fluid change. This is considered a major service that takes approximately 4-6 hours to complete."
+    },
+    {
+        "id": "5",
+        "question": "What are common issues for a 2018 Toyota Corolla with 55,000 miles?",
+        "answer": "Common issues for a 2018 Toyota Corolla with 55,000 miles include brake wear and oil leaks. The estimated time to address these issues is approximately 1-2 hours."
+    },
+    {
+        "id": "6",
+        "question": "What parts are needed for a coolant flush?",
+        "answer": "For a coolant flush, you will need coolant (such as CoolMax, 1 Gallon) and a coolant flush kit. A drain pan is also recommended for collecting the old coolant. The coolant flush is a medium difficulty service that takes approximately 45 minutes."
+    },
+    {
+        "id": "7",
+        "question": "What should I do if my engine is overheating?",
+        "answer": "If your engine is overheating, you should stop driving immediately and have the cooling system inspected. This is a high severity issue that could be caused by low coolant level, a faulty thermostat, a broken water pump, or a clogged radiator. The recommended action is to perform a coolant flush or address the specific faulty component."
+    },
+    {
+        "id": "8",
+        "question": "How much does a timing belt replacement cost?",
+        "answer": "The average cost for a timing belt replacement is $600. The cost can range from $400 to $800 depending on the vehicle make and model, the quality of parts used, and labor rates at different service providers."
+    },
+    {
+        "id": "9",
+        "question": "What are the signs that I need to replace my car battery?",
+        "answer": "Signs that you need to replace your car battery include hard starting of the engine, dimming headlights, electrical components working poorly, and the battery warning light on the dashboard. Battery replacement is often needed when these symptoms appear and is considered a high severity issue that should be addressed promptly."
+    },
+    {
+        "id": "10",
+        "question": "What maintenance tasks are recommended for a 2017 Honda Civic at 60,000 miles?",
+        "answer": "For a 2017 Honda Civic at 60,000 miles, recommended maintenance tasks include transmission fluid change, spark plug replacement, timing belt inspection/replacement, and brake fluid change. Common issues at this mileage include transmission issues and suspension problems, which would typically take 2-3 hours to address."
+    },
+    {
+        "id": "11",
+        "question": "How do I know if my air filter needs replacement?",
+        "answer": "Signs that your air filter needs replacement include poor engine performance, reduced fuel efficiency, and unusual engine sounds. You can also visually inspect the air filter - if it appears dirty, clogged with debris, or discolored, it should be replaced. Air filter replacement is an easy service that takes approximately 10 minutes and costs an average of $30 (ranging from $15 to $50)."
+    },
+    {
+        "id": "12",
+        "question": "What causes a spongy brake pedal and how serious is it?",
+        "answer": "A spongy brake pedal is typically caused by air in the brake lines, worn brake pads, or low brake fluid. This is a high severity issue as it affects your ability to stop the vehicle safely. The recommended action is to inspect and replace necessary components, particularly focusing on performing a brake fluid flush, which costs approximately $100 on average."
+    },
+    {
+        "id": "13",
+        "question": "What tools do I need for a tire rotation?",
+        "answer": "For a tire rotation, you need a jack to lift the vehicle, jack stands to safely support the vehicle once lifted, and a torque wrench to properly tighten the lug nuts to manufacturer specifications. Tire rotation is an easy service that takes approximately 20 minutes and helps ensure even tire wear and extended tire life."
+    },
+    {
+        "id": "14",
+        "question": "At what mileage should I consider replacing my radiator?",
+        "answer": "Radiator replacement is typically recommended at around 150,000 miles as part of a major service, along with alternator replacement, timing belt replacement, and water pump replacement. However, you should replace your radiator earlier if you notice symptoms like engine overheating, coolant leaks, or poor heating system performance."
+    },
+    {
+        "id": "15",
+        "question": "What are the steps for changing transmission fluid?",
+        "answer": "The steps for changing transmission fluid are: 1) Raise the vehicle and locate the transmission drain plug, 2) Remove the drain plug and drain the old transmission fluid, 3) Replace the transmission filter, 4) Reinstall the drain plug and add new transmission fluid, 5) Check the transmission fluid level and test the transmission. This is a medium difficulty service that takes approximately 60 minutes."
+    },
+    {
+        "id": "16",
+        "question": "What are the common causes of engine misfires in a 2015 Ford Mustang?",
+        "answer": "Common causes of engine misfires in a 2015 Ford Mustang include faulty spark plugs, faulty ignition coils, or clogged fuel injectors. This is considered a high severity issue that should be addressed promptly. The recommended action is to inspect and replace the necessary components, particularly focusing on spark plug replacement which costs approximately $120 on average."
+    },
+    {
+        "id": "17",
+        "question": "How often should I check my brake fluid level?",
+        "answer": "You should check your brake fluid level regularly, typically during every oil change (every 3,000-5,000 miles) or at least every 6 months. Additionally, you should perform a brake fluid flush approximately every 30,000 miles or 2 years, whichever comes first, to maintain optimal braking performance and prevent issues like a spongy brake pedal."
+    },
+    {
+        "id": "18",
+        "question": "What's the difference between regular maintenance and major service?",
+        "answer": "Regular maintenance includes basic services like oil and filter changes, tire rotations, air filter replacements, and brake inspections. These typically take 2-3 hours and are performed more frequently (usually every 30,000 miles). Major services include more complex tasks like transmission fluid changes, spark plug replacements, timing belt inspections/replacements, and brake fluid changes. These take 4-6 hours and are typically performed at 60,000 miles, 90,000 miles, and so on."
+    },
+    {
+        "id": "19",
+        "question": "What should I do if my power steering is making noise?",
+        "answer": "If your power steering is making noise, it could be due to low power steering fluid, a worn power steering pump, or air in the power steering system. This is considered a medium severity issue. The recommended action is to inspect and replace necessary components, particularly focusing on a power steering fluid change, which costs approximately $100 on average (ranging from $70 to $150)."
+    },
+    {
+        "id": "20",
+        "question": "How much does a wheel bearing replacement cost and when should I consider it?",
+        "answer": "A wheel bearing replacement costs approximately $300 on average, with a range from $200 to $400 depending on the vehicle make and model. You should consider replacing your wheel bearings when you hear a humming or grinding noise from the wheels, feel vibration in the steering wheel, or notice uneven tire wear. This service is typically recommended at around 240,000 miles but may be needed earlier if symptoms appear."
+    }
+]
